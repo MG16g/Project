@@ -1,0 +1,13 @@
+.Serv{
+    font-family: "Inter",system-ui;
+    font-size: medium;
+    color: aliceblue;
+    text-align: center;
+    
+}
+body{
+    color: aliceblue;
+}
+h3 {
+    padding: 2em;
+}
